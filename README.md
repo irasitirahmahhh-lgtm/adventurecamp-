@@ -2,8 +2,6 @@
 ## Identitas Mahasiswa
 - Nama: Ira Siti Rahmah
 - NIM: C 2583207048
-- Program Studi: Pendidikan Teknologi Informasi
-- Universitas: Universitas Muhammadiyah Tasikmalaya
 - Nama Proyek: Adventure Camp
 ## Deskripsi
 Adventure Camp adalah program penyewaan peralatan camping berbasis terminal yang dibuat menggunakan bahasa pemrograman C. Program ini membantu pengguna melihat daftar peralatan, melakukan transaksi penyewaan, menghitung biaya sewa dan diskon secara otomatis, menampilkan struk pembayaran, serta melihat riwayat transaksi dan total pendapatan.
