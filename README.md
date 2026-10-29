@@ -46,9 +46,8 @@ Diskon ditentukan berdasarkan lama penyewaan:
 Program menyimpan maksimal 10 transaksi selama program berjalan. Data transaksi digunakan untuk menampilkan riwayat penyewaan, menghitung jumlah transaksi, dan menghitung total pendapatan.
 ## Screenshot Program
 1. Tampilan Menu Utama dan Daftar Peralatan
-
+![ira] (ira.jpg)
 2. Tampilan Struk Penyewaan
-
+![ira.1] (ira.1.jpg)
 3. Tampilan Riwayat Transaksi
-
-4. Tampilan Daftar Peralatan
+![ira.2] (ira.2.jpg)
